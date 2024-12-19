@@ -10,6 +10,8 @@ Image preprocessing (resizing, batching, train-validation split).
 Implementation of CNN, ResNet50, VGG16, and AlexNet models.
 Achieved 94% accuracy using the CNN model with data augmentation.
 
+The dataset can be taken from kaggle or from fields just make the folders and add the links.
+
 📂 Repository Structure
 ├── dataset/  
 │   ├── healthy/  
